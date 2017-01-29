@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Generic">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Automation/Generic" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Automation/Generic/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

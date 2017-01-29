@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Amazon">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/Generic" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Amazon" />
+      <root url="file://$PROJECT_DIR$/Generic" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Amazon/src/test/java" />
+      <root url="file://$PROJECT_DIR$/Generic/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
